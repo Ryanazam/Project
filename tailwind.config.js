@@ -5,10 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {},
-  }, colors: {
-
-    'inputcolor': '##1F4284',
-  },
+  }, 
   plugins: [],
 }
 
